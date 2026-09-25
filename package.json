@@ -2,7 +2,6 @@
   "name": "habitat-catalunya-advocats-martorell",
   "version": "1.0.0",
   "description": "Sitio web de producción para Habitat Catalunya | Advocats Martorell - Despacho de abogados y asesoramiento jurídico en Martorell (Barcelona).",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "serve": "node server.js"
