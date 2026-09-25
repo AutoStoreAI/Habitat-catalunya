@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Sitio web de producción para Habitat Catalunya | Advocats Martorell - Despacho de abogados y asesoramiento jurídico en Martorell (Barcelona).",
   "scripts": {
+    "build": "mkdir -p public && cp -r index.html css js assets public/",
     "start": "node server.js",
     "serve": "node server.js"
   },
